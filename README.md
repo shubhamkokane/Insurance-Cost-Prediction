@@ -15,7 +15,7 @@ northwest.
 </br>● charges: Individual medical costs billed by health insurance.
 Source:
 </br>● [Kaggle](https://www.kaggle.com/mirichoi0218/insurance)
-References:
+</br>References:
 </br>● https://www.kaggle.com/hely333/eda-regression
 </br>● https://www.kaggle.com/janiobachmann/patient-charges-clustering-and-regression
 </br>● https://towardsdatascience.com/categorical-encoding-using-label-encoding-and-one-hot-encoder-911ef77fb5bd
