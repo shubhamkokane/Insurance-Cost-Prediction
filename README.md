@@ -5,7 +5,7 @@ The main aim of the project is to predict the Insurance Cost of the people in th
 ## 2 Dataset
 Columns:
 This dataset is a collection of 7 attributes/features out of which 6 features help in predicting the charges of Insurance Cost for an individual. The detail of each attribute is as follows:
-● age: age of primary beneficiary
+● age: age of primary beneficiary. 
 ● sex: insurance contractor gender, female, male
 ● bmi: Body mass index, providing an understanding of body, weights that are relatively
 high or low relative to height,
