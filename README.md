@@ -13,8 +13,7 @@ This dataset is a collection of 7 attributes/features out of which 6 features he
 </br>● region: the beneficiary's residential area in the US, northeast, southeast, southwest,
 northwest.
 </br>● charges: Individual medical costs billed by health insurance.
-Source:
-</br>● [Kaggle](https://www.kaggle.com/mirichoi0218/insurance)
+</br>Source: [Kaggle](https://www.kaggle.com/mirichoi0218/insurance)
 </br>References:
 </br>● https://www.kaggle.com/hely333/eda-regression
 </br>● https://www.kaggle.com/janiobachmann/patient-charges-clustering-and-regression
