@@ -1,8 +1,8 @@
 # Insurance Cost Prediction
-1 Project Goal
+##1 Project Goal:
 The main aim of the project is to predict the Insurance Cost of the people in the United States of America within different regions with the help of specific attributes. Since Insurance Cost varies from one individual to another and it depends on different features, we will try to find correlation between the features and insurance cost charges.
 
-2 Dataset
+##2 Dataset
 Columns:
 This dataset is a collection of 7 attributes/features out of which 6 features help in predicting the charges of Insurance Cost for an individual. The detail of each attribute is as follows:
 ● age: age of primary beneficiary
@@ -23,7 +23,7 @@ References:
 ● https://towardsdatascience.com/categorical-encoding-using-label-encoding-and-one-
 hot-encoder-911ef77fb5bd
 
-3 Methods
+##3 Methods
 Below are some potential regression methods we see ourselves using in this project:
 ● We are planning on doing Exploratory Data Analysis of the data and try to find answers to questions via visualization and analysis.
 ● We will use Forward selection and Backward elimination processes to model and will try to emphasize the difference in methodology of both processes.
