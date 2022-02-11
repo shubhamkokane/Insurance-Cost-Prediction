@@ -16,12 +16,11 @@ objective index of body weight (kg / m ^ 2) using the ratio of height to weight,
 northwest.
 ● charges: Individual medical costs billed by health insurance.
 Source:
-● https://www.kaggle.com/mirichoi0218/insurance
+● [Kaggle](https://www.kaggle.com/mirichoi0218/insurance)
 References:
 ● https://www.kaggle.com/hely333/eda-regression
 ● https://www.kaggle.com/janiobachmann/patient-charges-clustering-and-regression
-● https://towardsdatascience.com/categorical-encoding-using-label-encoding-and-one-
-hot-encoder-911ef77fb5bd
+● https://towardsdatascience.com/categorical-encoding-using-label-encoding-and-one-hot-encoder-911ef77fb5bd
 
 ## 3 Methods
 Below are some potential regression methods we see ourselves using in this project:
